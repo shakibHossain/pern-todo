@@ -1,6 +1,6 @@
 # pern-todo
 
-This project was built with PERN (PostgreSQL, Express, React and Node JS) stack. Tutorial by The Stoic Programmers.
+This project was built with PERN (PostgreSQL, Express, React and Node JS) stack.
 
 Features -
 
@@ -10,5 +10,5 @@ Features -
 
 Inspiration -
 
-https://www.youtube.com/watch?v=ldYcgPKEZC8&t=116s
+PERN App Tutorial by The Stoic Programmers.
 
